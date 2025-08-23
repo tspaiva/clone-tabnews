@@ -1,5 +1,5 @@
 function Home() {
-    return <h1>Pra nâo esquecer, amo vc ❤️ e o neném també Testando GIT
+    return <h1>Pra nâo esquecer, amo vc ❤️ e o neném também!! 👶
     </h1>
 }
 
